@@ -6,6 +6,13 @@ An unofficial rebuild of **CubeWhy, Eatgrapes, EldoDebug, LazyChara**'s original
 
 Loader: Fabric.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric |
+| 26.2 | Fabric |
+
 ## Source
 
 If you want the port source — for review, for a fork, or to build it yourself — ask at **9minecraft.net@gmail.com**.
